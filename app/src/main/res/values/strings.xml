@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mercado Libre App</string>
+    <string name="no_results">No se encontraron resultados</string>
+    <string name="precio">$ 0000</string>
+    <string name="producto">Producto XYZ</string>
+    <string name="cantidad">00 vendidos</string>
+    <string name="imagen">Imagen Producto</string>
+</resources>
